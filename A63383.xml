@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and faithful account of the present state and condition of the kingdom of Ireland together with the intire defeat of a body of Irish under the command of Colonel Sarsfield by a detached party of 1200 horse and 300 dragoons by Lieut. Gen. Scravenmore within 14 miles of the city of Cork.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63383</idno>
+            <idno type="STC">Wing T2467C</idno>
+            <idno type="STC">ESTC R25682</idno>
+            <idno type="EEBO-CITATION">09062138</idno>
+            <idno type="OCLC">ocm 09062138</idno>
+            <idno type="VID">42367</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42367)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and faithful account of the present state and condition of the kingdom of Ireland together with the intire defeat of a body of Irish under the command of Colonel Sarsfield by a detached party of 1200 horse and 300 dragoons by Lieut. Gen. Scravenmore within 14 miles of the city of Cork.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:42367:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>A True and Faithful Account of the <hi>Preſent State and Condition</hi> Of the KINGDOM of IRELAND:</head>
+            <p>Together with the in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire Defeat of a Body of Iriſh under the Com<g ref="char:EOLhyphen"/>mand of Colonel <hi>Sarsfield,</hi> by a detached Party of 1200 Horſe and 300 Dragoons, by Lieut. Gen. <hi>Scravenmore,</hi> within 14 Miles of the City of <hi>Cork.</hi>
+            </p>
+            <p>HIs Majeſty, King <hi>William,</hi> having as well by his Sage as Valor<g ref="char:EOLhyphen"/>ous Conduct of Affairs, in the Kingdom of <hi>Ireland,</hi> reduced his Re<g ref="char:EOLhyphen"/>bellious Subjects and Gallick Enemies to ſuch a Degree and low Eſtate of Fortune, as that his Royal Preſence was not any longer indiſpenſiblly neceſſary to remain in that Kingdom, having put the Military and Civil Govern<g ref="char:EOLhyphen"/>ment in ſuch Loyal and Experienced Hands, as 'tis not to be doubted would com<g ref="char:EOLhyphen"/>pleat the Conqueſt of the remainder Part of that Country, came for <hi>England,</hi> where he was received with the loud and inexpreſſible Acclamations and Rejoyce<g ref="char:EOLhyphen"/>ings of his People, for his Safe and Happy Return; which were in a manner no ſooner ended, but a ſucceſſion of Glad Tydings from <hi>Ireland</hi> reverberates and ecchoes a freſh the continued Succeſs of his Majeſty's Arms in all Quarters where they approach.</p>
+            <p>The Brave Col. <hi>Wooſley,</hi> with his unbeaten Inn is killing Troops, has ſignalized in divers Places of late againſt the Iriſh Raperies, in all which Rencounters he has given them a Defeat, killing a great many on the Spot, executing ſome of the Ring-Leaders whom he has made Priſoners, that the very Terror of his Name is now ſufficient to drive them out of all thoſe Parts, without making any farther Purſuit after them; which the laſt Letters, bearing date the <hi>16th</hi> and <hi>19th</hi> of this inſtant <hi>September</hi> ſignifies; which among other things aſſures: That this Valient and Bugbearing Colonel advanced, without the leaſt Moleſtation or Impediment by the Iriſh, under the very Walls of <hi>Athlone,</hi> driving away all the Cattle the Garriſon had got under their Shelter, without having any thing of Courage to ſally out to obſtruct his Deſign.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The Right Honorable the Lord <hi>Sidney</hi> and <hi>Thomas Conisby</hi> 
+               <abbr>Eſq</abbr> had been ſworn Lords Juſtices of, and entered upon the Ad<g ref="char:EOLhyphen"/>miniſtration of the Government; whereupon the Caſtle was ſitting up for their Reception: And that they had already publiſhed two Proclamations, the one againſt impreſſing of Seamen, the other againſt Carriage-Horſes, by reaſon it ob<g ref="char:EOLhyphen"/>ſtructed the Country from bringing Proviſion to the Markets. And that they had cauſed the Priſoners to be removed from <hi>Dublin</hi> to <hi>Drogheda.</hi>
+            </p>
+            <p>And we are aſſured by ſome Perſons that have deſerted <hi>Limerick</hi> and <hi>Gallway,</hi> That the French in both theſe Garriſons; diſpairing of Succeſs, have precipitately leſt and abandoned thoſe De<g ref="char:EOLhyphen"/>fences, making their Way on the <hi>5th</hi> Inſtant on Board of ſome Veſſels for <hi>France:</hi> And that Monſieur <hi>Boiſteau</hi> the late Governour of <hi>Limerick</hi> with the Count <hi>de Lazune,</hi> the Dukes of <hi>Ber<g ref="char:EOLhyphen"/>wick</hi> and <hi>Tyrcennell</hi> followed ſome Days after, leaving one <hi>Thomas Hamilton</hi> Governour of <hi>Lime<g ref="char:EOLhyphen"/>rick,</hi> with only ſome remains of Iriſh Forces; Who finding themſelves in a manner deſerted, and deſtitute of Mony, Clothes, Shoes, and many other Neceſſaries, have deputed an Officer, clubing about for ſome Mony to bear his Charges, to repair to the French Court, and to ſignifie to that King the extream Want they muſt undergo, it being impoſſible for them to make any farther Reſiſtance unleſs powerfully aſſiſted by his Moſt Chriſtian Majeſty; eſpecially ſince they have been advertiſed, That they are like ſuddainly to be attaqued by Sea and Land.</p>
+            <p>And further more the Letters give an Account, That the Lord <hi>Scravenmore,</hi> being detached from his Majeſty's Camp at <hi>Tipperary</hi> with 1200 Horſe, 300 Dragoons, and 2 Companies of Daniſh Foot, into the County of <hi>Cork,</hi> whether to favour the Deſcent of the Engliſh Forces on Board the Grand Fleet, or to ſuppreſs the great Body of Raperies in thoſe Parts, who under the Lord <hi>Cle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>carty</hi> has made great Devaſtations and Burnings, is not certainly known, but ſo it hapned, that Colonel <hi>Sarsfield</hi> being buoyed up and fluſhed with his late Attempt of ſeizing the Cannon, and thinking to have performed a ſecond Exploit, gathered all his Forces together, amounting to the Number of 3000. Horſe, marched with all poſſible celerity, thinking to ſur<g ref="char:EOLhyphen"/>prize and cut off the Lord <hi>Scravenmore</hi> with his Detachment; but our General being advertiſed of his Advancing, drew near and ſell upon the Colonel at ſome Diſadvantage, and intirely de<g ref="char:EOLhyphen"/>feated and cut to Pieces the whole Body of Iriſh: And if we may give any Credit to Fame, <hi>Sarsfield</hi> with only 5 of his Party eſcaped in the Fight; which if the Letters come confirm, We have ſufficiently given him a <hi>Rowland</hi> for his <hi>Oliver.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L.C.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
